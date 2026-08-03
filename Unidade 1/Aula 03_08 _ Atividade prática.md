@@ -31,7 +31,7 @@ Imagine que uma escola deseja criar um sistema de controle de alunos.
  
 ## 4. Por que é importante levantar os requisitos antes de desenvolver o software?
  
-Levantar os requisitos evita retrabalho e desperdício de tempo e dinheiro, pois garante que o sistema seja construído de acordo com as reais necessidades dos usuários. Sem esse levantamento, o desenvolvedor corre o risco de criar uma solução incompleta, com funcionalidades desnecessárias ou que não atende ao problema real — descobrir isso depois de pronto é muito mais caro de corrigir do que planejar corretamente desde o início.
+Levantar os requisitos evita retrabalho e desperdício de tempo e dinheiro, pois garante que o sistema seja construído de acordo com as reais necessidades dos usuários. Sem esse levantamento, o desenvolvedor corre o risco de criar uma solução incompleta, com funcionalidades desnecessárias ou que não atende ao problema real.
  
 ---
  
