@@ -21,13 +21,13 @@ Imagine que uma escola deseja criar um sistema de controle de alunos.
 1. Cadastrar e atualizar dados dos alunos (nome, data de nascimento, turma, responsáveis, etc.)
 2. Registrar frequência (presença/falta) dos alunos em cada aula
 3. Lançar e consultar notas/avaliações, gerando boletins por período
-> Outros exemplos possíveis: emitir declarações de matrícula, gerar relatórios de desempenho, controlar turmas e disciplinas.
+
  
 ## 3. Requisitos Não Funcionais (como o sistema deve funcionar)
  
 1. **Segurança**: o sistema deve garantir que apenas usuários autorizados acessem dados sensíveis (login com senha, permissões por perfil)
 2. **Desempenho/Disponibilidade**: o sistema deve responder às consultas em poucos segundos e estar disponível durante o horário escolar, sem quedas frequentes
-> Outros exemplos possíveis: usabilidade — interface simples e intuitiva; escalabilidade — suportar crescimento no número de alunos.
+
  
 ## 4. Por que é importante levantar os requisitos antes de desenvolver o software?
  
@@ -35,9 +35,4 @@ Levantar os requisitos evita retrabalho e desperdício de tempo e dinheiro, pois
  
 ---
  
-## 💡 Observação para a socialização
- 
-Ao apresentar em dupla, vale destacar que diferentes duplas podem chegar a requisitos distintos (por exemplo, uma dupla pode pensar em "emissão de boletim" e outra em "controle de biblioteca") — isso é normal e mostra como o levantamento de requisitos depende da perspectiva de quem analisa o problema, reforçando a discussão proposta pela professora sobre as diferentes soluções.
- 
----
- 
+
