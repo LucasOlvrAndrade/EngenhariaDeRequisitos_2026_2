@@ -24,6 +24,4 @@ desenvolvimento.
 
 Feita em dupla com [João Pedro Duarte Borges](https://github.com/joaopedroduarteborges).
 
-## Licença
 
-MIT — veja [LICENSE](LICENSE).
