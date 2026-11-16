@@ -42,7 +42,7 @@ A data é a da aula na Unidade 1 e a da entrega no repositório nas demais.
 | 28/09 | [Product Vision Canvas](Unidade%205/Product%20Vision%20Canvas.pdf) | Visão de produto — sistema para estética automotiva |
 | 26/10 | [Do requisito ao diagrama de casos de uso](Unidade%205/ATIVIDADE%20PR%C3%81TICA_%20Do%20Requisito%20ao%20Diagrama%20de%20Casos%20de%20Uso.pdf) · [apresentação](Unidade%205/Atividade%20Pr%C3%A1tica%20-%20U.C.%20Battle.pptx) | UML — diagrama de casos de uso do U.C. Battle, um jogo acessível para o ensino de UML |
 | 26/10 | [Perguntas sobre especificação e modelagem](Unidade%205/Perguntas%20sobre%20especifica%C3%A7%C3%A3o%20de%20requisitos%20e%20modelagem.pdf) | Especificação de requisitos — 30 questões sobre o artigo do U.C. Battle |
-| 16/11 | [Projeto: sistema de gestão para estética automotiva](Unidade%205/Projeto_Engenharia_de_Requisitos_Estetica_Automotiva.docx) | Projeto de software — requisitos, arquitetura, modelagem UML e entidade-relacionamento, Kanban e testes |
+| 16/11 | [Projeto: sistema de gestão para estética automotiva](Unidade%205/Projeto_Engenharia_de_Requisitos_Estetica_Automotiva.pdf) | Projeto de software — requisitos, arquitetura, modelagem UML e entidade-relacionamento, Kanban e testes |
 
 ## Sobre as atividades
 
