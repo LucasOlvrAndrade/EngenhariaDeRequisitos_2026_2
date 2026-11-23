@@ -83,7 +83,7 @@ Duas linhas de trabalho:
   de estética automotiva. O projeto final leva essa visão até a especificação
   completa: requisitos, arquitetura, protótipo de telas, diagramas UML e
   entidade-relacionamento, metodologia, Kanban e testes. O projeto foi feito
-  com [Lucas Martins Barreto](https://github.com/LucasBarretoDev-eng) e [Yuri Marques Oliveira](https://github.com/yuriyz22), Sara Rebeca Rosario Soares,  [Henrique Mota Monteiro](https://github.com/Henriquemotaux) e [João Pedro Duarte Borges](https://github.com/joaopedroduarteborges).
+  com [Lucas Martins Barreto](https://github.com/LucasBarretoDev-eng), [Yuri Marques Oliveira](https://github.com/yuriyz22), Sara Rebeca Rosario Soares,  [Henrique Mota Monteiro](https://github.com/Henriquemotaux) e [João Pedro Duarte Borges](https://github.com/joaopedroduarteborges).
 - **U.C. Battle.** Estudo do artigo sobre um jogo acessível para o ensino de
   UML: as 30 questões de especificação e modelagem, feitas com [Henrique Mota Monteiro](https://github.com/Henriquemotaux) e
   [Yuri Marques Oliveira](https://github.com/yuriyz22), e o caminho do requisito ao diagrama de casos de uso, com a
